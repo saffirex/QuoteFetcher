@@ -1,0 +1,2 @@
+This program shows quotes from goodreads. 
+You define the starting page and the program continuously provides all the quotes from that page, and continues to the next pages until interrupted.
